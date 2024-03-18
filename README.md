@@ -8,6 +8,7 @@
 ![Java](https://shields.io/badge/java-black?logo=java&style=for-the-badge%22)
 ![Spring Boot](https://shields.io/badge/springboot-black?logo=spring&style=for-the-badge%22)
 ![JPA](https://shields.io/badge/jpa-black?logo=jpa&style=for-the-badge%22)
+![Mybatis](https://shields.io/badge/mybatis-black?logo=jpa&style=for-the-badge%22)
 
 # 부 스킬
 
